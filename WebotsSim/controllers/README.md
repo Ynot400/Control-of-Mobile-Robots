@@ -1,3 +1,4 @@
+## THIS README WAS CREATED BY THE FAIRIS-LITE FRAMEWORK CREATOR
 # Webot Robot Controllers
 FAIRIS-Lite uses python scripts that will be utilized by Webots to control the simulated robot. You can find more 
 details in [Webots Documentation](https://cyberbotics.com/doc/guide/controller-programming?tab-language=python). 
