@@ -1,1 +1,2 @@
-[![Lab 1 Task 1 Video](https://www.youtube.com/embed/eYj6h-O6Jxw?si=-IsrG_qpU9B02DZl)
+[![Alt text](https://img.youtube.com/vi/eYj6h-O6Jxw/0.jpg)](https://www.youtube.com/watch?v=eYj6h-O6Jxw)
+
